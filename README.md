@@ -69,8 +69,8 @@ Before running this project, make sure you have:
 ### Clone Repository
 
 ```bash
-git clone https://github.com/mohammadadil-dev/google-sheets-drive-api-springboot.git
-cd google-sheets-drive-api-springboot
+git clone https://github.com/mohammadadil-dev/google-sheets-api-springboot.git
+cd google-sheets-api-springboot
 ```
 
 ### Build Project
